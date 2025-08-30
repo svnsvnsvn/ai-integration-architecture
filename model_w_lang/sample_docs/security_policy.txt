@@ -1,0 +1,22 @@
+
+COMPANY SECURITY POLICY
+
+1. ACCESS CONTROL
+All employees must use strong passwords and enable two-factor authentication.
+Access to sensitive systems requires manager approval.
+
+2. DATA PROTECTION
+Confidential data must be encrypted at rest and in transit.
+Personal information must be handled according to privacy regulations.
+
+3. INCIDENT RESPONSE
+Security incidents must be reported within 24 hours.
+All incidents will be investigated and documented.
+
+4. NETWORK SECURITY
+Firewalls must be configured to block unauthorized access.
+VPN connections are required for remote access.
+
+5. COMPLIANCE
+All security measures must comply with industry standards.
+Regular audits will be conducted to ensure compliance.

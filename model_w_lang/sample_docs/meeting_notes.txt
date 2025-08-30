@@ -1,0 +1,27 @@
+
+SECURITY TEAM MEETING NOTES
+Date: August 29, 2025
+
+ATTENDEES:
+- Security Manager
+- Development Team Lead
+- AI Security Intern
+
+AGENDA:
+1. Review current security posture
+2. Discuss AI security implementation
+3. Plan upcoming security training
+
+DISCUSSION POINTS:
+- AI model security is becoming increasingly important
+- Need to implement proper input validation for AI systems
+- Document processing pipeline should include security checks
+- Rate limiting and monitoring are essential
+
+ACTION ITEMS:
+- Implement security audit for AI systems
+- Create security guidelines for AI development
+- Schedule security training for development team
+- Review and update incident response procedures
+
+NEXT MEETING: September 5, 2025

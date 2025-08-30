@@ -1,0 +1,17 @@
+# Core LangGraph and LangChain
+langgraph==0.2.14
+langchain==0.2.14
+langchain-community==0.2.12
+
+# AI Providers (choose based on .env configuration)
+langchain-openai>=0.1.0
+langchain-groq>=0.1.0
+langchain-ollama>=0.1.0
+
+# Document processing
+PyPDF2==3.0.1
+python-docx==1.1.0
+
+# Environment and validation
+python-dotenv==1.0.0
+pydantic>=2.0.0
